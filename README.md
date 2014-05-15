@@ -2,7 +2,7 @@
 
 Ikachan wrapper for node.js
 
-[![Build Status](https://secure.travis-ci.org/udzura/ikachan-node.png)](http://travis-ci.org/udzura/ikachan-node)
+[![wercker status](https://app.wercker.com/status/f5123cfde60c79027bfbc216d9629368/m "wercker status")](https://app.wercker.com/project/bykey/f5123cfde60c79027bfbc216d9629368)
 
 ## Install
 
