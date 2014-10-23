@@ -16,7 +16,7 @@ $ npm install ikachan-node
 var Ikachan = require('ikachan-node');
 var ikachan = new Ikachan('http://irc.example.com:8888/');
 
-ikachan.notcie('#test', 'Build failed!!!!',
+ikachan.notice('#test', 'Build failed!!!!',
   function(response, error) {
     if(error == null) {
       console.log(response); // log response text
